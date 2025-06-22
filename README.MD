@@ -116,4 +116,4 @@ This document outlines the components, and design considerations for add printin
 * Dipesh Malvia : [Learn React JS with Project in 2 Hours | React Tutorial for Beginners | React Project Crash Course](https://www.youtube.com/watch?v=0riHps91AzE/)
 * Medium : [How to add a loading spinner in React Function components](https://medium.com/@cabhishek712/implementing-a-loader-loading-spinner-in-react-function-components-950eef0f4253)
 * Dev.to : [Deploying to GitHub Pages using gh-pages](https://dev.to/scc33/deploying-to-github-pages-using-gh-pages-2d95)
-* Medium :[How to Implement Custom Controls with React-Player▶️: A Step-by-Step 🪜Guide 📖(with Picture-in-Picture Mode)](https://oluwadaprof.medium.com/how-to-implement-custom-controls-with-react-player-%EF%B8%8F-a-step-by-step-guide-with-8068e)
+* Medium :[How to Implement Custom Controls with React-Player▶️: A Step-by-Step 🪜Guide 📖(with Picture-in-Picture Mode)](https://oluwadaprof.medium.com/how-to-implement-custom-controls-with-react-player-%EF%B8%8F-a-step-by-step-guide-with-8068e2717590)
